@@ -1,5 +1,14 @@
-$primary: #0099cc;
+$primary: #050607;
+
+
+*{
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
+  background-color: rgb(160, 229, 241);
+  margin:0; 
+  box-sizing: border-box;
+}
 
 .title {
   color: $primary;
+  text-decoration:none;
 }

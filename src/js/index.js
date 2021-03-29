@@ -1,5 +1,5 @@
 import '../css/style.scss'
-import Img from '../assets/img_wbpc.png';
+import Img from '../assets/img_wbpc.jpg';
 
 const textComponent = () => {
   const elH1 = document.createElement("h1");
@@ -9,7 +9,7 @@ const textComponent = () => {
 };
 
 const imgComponent = () => {
-  const elimg =  new Image(550, 350);
+  const elimg =  new Image();
   elimg.src = Img;
   return elimg
 }
