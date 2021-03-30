@@ -9,7 +9,7 @@ webpack is a module bundler. Its main purpose is to bundle JavaScript files for 
 
 ## tips:
 
-Use the shortcut `shift + alt + f` for code identification
+Use the shortcut `shift + alt + f` to format the code
 
 ---
 Install vscode [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) plugin to launch a local development server with live reload feature for static & dynamic pages.
